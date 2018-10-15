@@ -9,7 +9,7 @@
 
     <FrameLayout
             android:id="@+id/frame_layout"
-            android:background="#bab43f"
+            android:background="#cacaca"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
 
