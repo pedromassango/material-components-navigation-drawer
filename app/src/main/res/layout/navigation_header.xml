@@ -6,7 +6,7 @@
 
     <androidx.appcompat.widget.AppCompatTextView
             style="@style/Base.TextAppearance.AppCompat.Display2"
-            android:text="This is My Header Layout"
+            android:text="Your Moments Photo Album"
             android:padding="32dp"
             android:textColor="#212121"
             android:layout_width="match_parent"
