@@ -8,6 +8,7 @@
     <androidx.appcompat.widget.AppCompatTextView
             style="@style/Base.TextAppearance.AppCompat.Display2"
             android:text="Your Moments Photo Album"
+            android:id="@+id/tv_header_title"
             android:padding="32dp"
             app:autoSizeTextType="uniform"
             android:textColor="#212121"
