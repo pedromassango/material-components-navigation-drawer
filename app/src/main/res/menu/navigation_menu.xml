@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:icon="@drawable/ic_photos"
-          android:title="All Photos"/>
+    <item
+            android:id="@+id/action_all_photos"
+            android:icon="@drawable/ic_photos"
+            android:title="All Photos"/>
 
     <item android:icon="@drawable/ic_friends"
           android:title="Shared with me"/>
