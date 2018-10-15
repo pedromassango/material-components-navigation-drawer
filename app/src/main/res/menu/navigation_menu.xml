@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/ic_photos"
+          android:title="All Photos"/>
+
+    <item android:icon="@drawable/ic_friends"
+          android:title="Shared with me"/>
+
+    <item android:icon="@drawable/ic_star"
+          android:title="Starred"/>
+
+    <item android:icon="@drawable/ic_recent"
+          android:title="Recent"/>
+
+    <group android:orderInCategory="100">
+
+        <item android:icon="@drawable/ic_friends"
+              android:title="Shared with me"/>
+
+
+    </group>
+</menu>
